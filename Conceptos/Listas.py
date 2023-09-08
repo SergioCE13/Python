@@ -3,20 +3,20 @@
 # Arreglo de cadenas
 cadenas=["Futbol", "Basketball", "Beisbol", "Soccer"]
 
- # Imprimiendo todos los elemetos del arreglo
+ # Imprimiendo todos los elemetos de la lista
 print(cadenas)
 
-# Imprimiento un elemento específico del arreglo (0,long-1)
+# Imprimiento un elemento específico de la lista (0,long-1)
 print(cadenas[1])
 
-# Imprimiento el último elemento del arreglo
+# Imprimiento el último elemento de la lista
 print(cadenas[-1])
 
-#Imprimiendo bloques de elementos del arreglo
+#Imprimiendo bloques de elementos de la lista
 print(cadenas[0:2]) #El número 2 python lo toma como la cantidad de elementos a verificar
 print(cadenas[1:3]) #Imprimiento apartir del 2do elemento del arreglo, tomando en cuenta solo 3 elementos (contando el elemento 0)
 
-#Imprimiendo los primeros X elementos del arreglo
+#Imprimiendo los primeros X elementos de la lista
 print(cadenas[:3])
 print(cadenas[:2])
 
