@@ -1,4 +1,4 @@
-#Ejercicio Número 5 Números paraes e impares
+#Planteamiento: Verificar Números paraes e impares
 
 num1 = int(input("Ingresa el primer número a verificar: "))
 num2 = int(input("Ingresa el segundo número a verificar: "))
