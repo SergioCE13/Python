@@ -1,4 +1,4 @@
-#Tipos de Datos en Python
+#Tipos de Datos principales en Python
 
 entero = 50 #Número entero
 decimal = 13.22 #Número decimal
@@ -12,13 +12,9 @@ print("El número decimal: ", decimal)
 print("El valor boleano es: ", boleano)
 print("La caden es: ", cadena)
 
-#Tipos de Comentarios en Python
-
-    #Comentarios en Python por línea.
-
 '''
-Comentarios en Python
-por sección de la hoja
-de código
-
+    Nota: Se debe tomar en cuenta que todas las variables atomicas
+    (no listas, diccionarios, etc.) son dinámicas, es decir que no
+    tiene un tipo de dato establecido, este se toma apartir del valor
+    que tiene asignado. 
 '''

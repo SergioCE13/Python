@@ -1,48 +1,48 @@
 #Operadores de asignación en python
 
-#Operador número 1
+#Suma/Incremento en 1
 a = 0
 a = a + 1
 print(a)    
 
-#Operador número 2
+#Incremento en 1 por asignación.
 
 b = 0
-b += 1
+b += 1 #La operación es: b más 1.
 print(b) 
 
-#Operador número 3
+#Decremento en 1 por asignación.
 
 c = 0
-c -= 1
+c -= 1 #La operación es: c menos 1.
 print(c) 
 
-#Operador número 4
+#Multiplicación por asignación.
 
 d = 5
-d *= 2
+d *= 2 #La operación es: d multiplicado por 2.
 print(d) 
 
-#Operador número 5
+#División por asignación.
 
 e = 5
-e /= 2
+e /= 2 #La operación es: e dividido entre 2.
 print(e) 
 
-#Operador número 6
+#Módulo por asignación.
 
 f = 5
-f %= 2
+f %= 2 #La operación es: f modulo 2.
 print(f) 
 
-#Operador número 7
+#Potencia por asignación.
 
 g = 5
-g **= 2
+g **= 2 #La operación es: g elevado a la 2da potencia.
 print(g) 
 
-#Operador número 8
+#División entera por asignación.
 
 h = 5
-h //= 2
+h //= 2 #La operación es: La parte entera de h dividio entre 2.
 print(h) 

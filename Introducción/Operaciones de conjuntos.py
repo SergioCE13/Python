@@ -1,4 +1,4 @@
-# Ejercicio número 10: Conjuntos
+#Demostración de la implementación y operaciones con Conjuntos
 A = {1,2,3,4}
 B = {2,3,5,6}
 C = {3,4,6,7}
