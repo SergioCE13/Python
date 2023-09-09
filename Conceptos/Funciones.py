@@ -19,7 +19,7 @@ def Suma(a,b):
     return a+b
 
 suma = Suma(5,4)
-print(f'Reaultado de la suma: {suma}')
+print(f'Resultado de la suma: {suma}')
 
 #4. Declarar una función que reciba parametros ó aplique valores por default
 def Resta(a = 5, b = 0): #En caso de que no se le mande un argumento valido utilizará a = 5 y b = 0
